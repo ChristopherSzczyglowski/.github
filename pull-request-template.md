@@ -22,12 +22,6 @@
 > * Linked a Post to a User
 
 ### Environments Updated (Delete if N/A)
-> * [ ] envolvetech 
-> * [ ] outsimas
-> * [ ] envolvetechdon
-> * [ ] test-envolve-02
-> * [ ] test-envolve-03
-> * [ ] test-envolve-04
 
 ## Updates to the UI (Delete if N/A)
 > Provide screenshots showing any changes to the UI
